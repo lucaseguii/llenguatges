@@ -6,7 +6,7 @@
   <p>Before the script...</p>
 
   <script>
-    alert( 'Hola, ramis!' );
+    alert( 'Hola, Menorca!' );
   </script>
 
   <p>...After the script.</p>

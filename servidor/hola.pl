@@ -1,6 +1,6 @@
 DECLARE
    -- variable declaration
-   message  varchar2(20):= 'Hello Ramis!';
+   message  varchar2(20):= 'Hello Menorca!';
 BEGIN
    --output
    dbms_output.put_line(message);
